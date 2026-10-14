@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mengyuanzha0.github.io/sitemap.xml

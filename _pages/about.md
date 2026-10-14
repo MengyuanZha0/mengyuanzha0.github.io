@@ -27,7 +27,7 @@ Outside research, I enjoy playing the piano, tennis, skiing, and water sports.
 
 <!--
 Preview:
-cd /home/yif/Documents/KTH/git/mengyuanzhao.github.io
+cd /home/yif/Documents/KTH/git/mengyuanzha0.github.io
 bundle install   # only needed once
 bundle exec jekyll serve
 -->

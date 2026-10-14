@@ -1,4 +1,4 @@
-# mengyuanzhao.github.io
+# mengyuanzha0.github.io
 
 Academic homepage of Mengyuan Zhao (KTH), built with the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme.
 
